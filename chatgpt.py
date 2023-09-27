@@ -16,7 +16,7 @@ from bardapi import Bard
 from datetime import datetime
 import logging
 
-FORMAT = "[LEGEND-MUKESH] %(message)s"
+FORMAT = "[LEGEND-PRINCE] %(message)s"
 logging.basicConfig(
     level=logging.WARNING, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 )
